@@ -1,0 +1,4 @@
+# Which method helps you understand your changes better?
+The GitHub website helps me understand my changes better because I can visually see what changed in each commit.
+# Can you see how your essay developed over time?
+Yes. I can see how my essay developed over time by looking at the commit history. I first added the title, then the introduction and finally the body paragraph.
